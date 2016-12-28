@@ -4,7 +4,7 @@ import chai from "chai";
 import _ from "lodash";
 import path from "path";
 
-import { provideData } from "../dpro";
+import provideData from "../dpro";
 import logger from "../logger";
 
 // eat console logs

@@ -1,6 +1,6 @@
 {
   "name": "dpro",
-  "version": "1.1.0-beta2",
+  "version": "1.1.0",
   "description": "data provider for testarmada",
   "main": "./index.js",
   "author": "Lei Zhu <thunderzhulei@gmail.com>",
